@@ -1,0 +1,9 @@
+c:\users\коля\documents\visual studio 2013\Projects\CALKULATOR\CALKULATOR\bin\Debug\CALKULATOR.exe.config
+c:\users\коля\documents\visual studio 2013\Projects\CALKULATOR\CALKULATOR\obj\Debug\CALKULATOR.csprojResolveAssemblyReference.cache
+c:\users\коля\documents\visual studio 2013\Projects\CALKULATOR\CALKULATOR\obj\Debug\CALKULATOR.Form1.resources
+c:\users\коля\documents\visual studio 2013\Projects\CALKULATOR\CALKULATOR\obj\Debug\CALKULATOR.Properties.Resources.resources
+c:\users\коля\documents\visual studio 2013\Projects\CALKULATOR\CALKULATOR\obj\Debug\CALKULATOR.csproj.GenerateResource.Cache
+C:\Users\коля\Documents\Visual Studio 2013\Projects\CALKULATOR\CALKULATOR\bin\Debug\CALKULATOR.exe
+C:\Users\коля\Documents\Visual Studio 2013\Projects\CALKULATOR\CALKULATOR\bin\Debug\CALKULATOR.pdb
+C:\Users\коля\Documents\Visual Studio 2013\Projects\CALKULATOR\CALKULATOR\obj\Debug\CALKULATOR.exe
+C:\Users\коля\Documents\Visual Studio 2013\Projects\CALKULATOR\CALKULATOR\obj\Debug\CALKULATOR.pdb
